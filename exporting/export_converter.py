@@ -17,7 +17,7 @@ defined_users = {
     
     320215256355831830: {
         "name": "chris",
-        "aliases": ["chrizzo", ]
+        "aliases": ["chrizzo"]
     },
     
     415391440001040384: {
